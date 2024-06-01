@@ -1,11 +1,11 @@
-function setup() {
-  let p =createCanvas(600, 600);
- background("pink");
+
+ function setup() {
+  let p =createCanvas(465, 465);
+ background("#E75480");
  stroke("white");
-p.position(2230,200)
+p.position(1030,120)
 
 }
-
 
 let x;
 let y;
