@@ -5,14 +5,7 @@ function setup() {
 p.position(2230,200)
 
 }
-var canvas;
-function setup() {
- canvas =createCanvas(windowWidth, windowHeight);
- canvas.position(0,0);
- canvas.style('z-index','-1');
- background("black");
- stroke("white");
-}
+
 
 let x;
 let y;
